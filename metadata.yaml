@@ -1,0 +1,45 @@
+_repo: The-Works-of-Honor--de-BalzacAbout-Catherine-de-Medici-Seraphita-and-Other-Stories_37285
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Waring, James
+    gutenberg_agent_id: '7076'
+    url: http://www.gutenberg.org/2009/agents/7076
+  - agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_issued: '2011-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+title: 'The Works of Honoré de Balzac: About Catherine de'' Medici, Seraphita, and
+  Other Stories'
+url: http://www.gutenberg.org/ebooks/37285
